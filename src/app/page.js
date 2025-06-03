@@ -116,7 +116,7 @@ export default function Home() {
           <h2 className="text-3xl font-bold text-purple-300 mb-4">About Me</h2>
           <p className="text-lg leading-relaxed">
             Hey there — I’m Shaina. A code-loving, cosmic-minded creative
-            turning bold ideas into beautiful interfaces. I'm currently
+            turning bold ideas into beautiful interfaces. I&apos;m currently
             studying Software Engineering at Western Governors University,
             with plans to graduate in June 2026. With a passion for AI,
             front-end design, and cloud technology, I craft digital
