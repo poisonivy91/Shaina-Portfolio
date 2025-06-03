@@ -115,13 +115,13 @@ export default function Home() {
         >
           <h2 className="text-3xl font-bold text-purple-300 mb-4">About Me</h2>
           <p className="text-lg leading-relaxed">
-            Hey there — I’m Shaina. A code-loving, cosmic-minded creative
+            Hey there — I&apos;m Shaina. A code-loving, cosmic-minded creative
             turning bold ideas into beautiful interfaces. I&apos;m currently
             studying Software Engineering at Western Governors University,
             with plans to graduate in June 2026. With a passion for AI,
             front-end design, and cloud technology, I craft digital
-            experiences that feel alive. When I’m not building something new,
-            I’m exploring new tech, galaxies, and everything in between.
+            experiences that feel alive. When I&apos;m not building something new,
+            I&apos;m exploring new tech, galaxies, and everything in between.
           </p>
           <h3 className="text-2xl font-semibold text-purple-300 mt-8 mb-2">
             Core Skills
@@ -141,7 +141,7 @@ export default function Home() {
             <li>• I love stargazing and learning about the cosmos.</li>
             <li>• I am a huge Horror Buff, Friday nights at Blockbuster was my spot.</li>
             <li>• My favorite coding playlist is full of synthwave and lo-fi beats.</li>
-            <li>• I'm a plant mom, my office is filled with plants!</li>
+            <li>• I am a plant mom, my office is filled with plants!</li>
           </ul>
 
           {/* Planets */}
