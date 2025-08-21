@@ -29,7 +29,15 @@ const projects = [
 		github: "https://github.com/poisonivy91/astron-bitcoin-app",
 		demo: "https://astron-bitcoin-app.vercel.app",
 	},
-	// Add more here later ⬇️
+	{
+		title: "Pulse Clinic",
+		description:
+			"A modern, responsive healthcare website built with Next.js and Appwrite.",
+			image: "/projects/Pulse Clinic.png",
+		github: "https://github.com/team-bethany-and-thomas/healthapp",
+		demo: "https://healthapp.appwrite.network",
+
+	}
 ];
 
 export default function ProjectsPage() {

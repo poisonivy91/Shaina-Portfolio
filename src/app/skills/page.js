@@ -32,7 +32,7 @@ export default function SkillsPage() {
               icon: "/icons/skills.png",
             },
             {
-              href: "/ShainaBowserResume.pdf",
+              href: "/Software Developer Resume.pdf",
               label: "Resume",
               icon: "/icons/resume.png",
             },
