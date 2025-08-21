@@ -33,7 +33,7 @@ const projects = [
 		title: "Pulse Clinic",
 		description:
 			"A modern, responsive healthcare website built with Next.js and Appwrite.",
-			image: "/projects/Pulse Clinic.png",
+			image: "/projects/pulseclinic.png",
 		github: "https://github.com/team-bethany-and-thomas/healthapp",
 		demo: "https://healthapp.appwrite.network",
 
@@ -68,7 +68,7 @@ export default function ProjectsPage() {
 							icon: "/icons/skills.png",
 						},
 						{
-							href: "/ShainaBowserResume.pdf",
+							href: "/SoftwareDeveloperResume.pdf",
 							label: "Resume",
 							icon: "/icons/resume.png",
 						},
