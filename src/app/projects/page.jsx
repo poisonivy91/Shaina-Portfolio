@@ -11,7 +11,7 @@ const projects = [
 			"AI-powered affirmation & journaling web app using Gemini + Firebase.",
 		image: "/projects/manifestme.png",
 		github: "https://github.com/poisonivy91/manifest-me",
-		demo: "https://manifest-me.vercel.app",
+		demo: "https://manifest-me-five.vercel.app",
 	},
 	{
 		title: "Cosmic To-Do",
